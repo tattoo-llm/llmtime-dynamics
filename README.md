@@ -15,7 +15,7 @@ by Nate Gruver, Marc Finzi, Shikai Qiu and Andrew Gordon Wilson (NeurIPS 2023).
 * Raunak Dey
 * Chandramani Lu
 * Ravi Chepuri
-* You (contributions welcome)! Please shoot me an email at [Raunak Dey](mailto:rdey@umd.edu?subject=[GitHub]%20Source%20Han%20Sans)
+* You (contributions welcome)! Please shoot me an email at [Raunak Dey](mailto:rdey@umd.edu?subject=[GitHub]%20Source%20llmtime-dynamics)
 
 
 ## 🛠 Installation
